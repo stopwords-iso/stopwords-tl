@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-tl",
+  "description": "The most comprehensive collection of stopwords for the tagalog language.",
+  "keywords": [
+    "tagalog",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-tl",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-tl.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
